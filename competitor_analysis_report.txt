@@ -1,0 +1,16 @@
+NIGERIAN E-COMMERCE COMPETITOR ANALYSIS REPORT
+==================================================
+
+Analysis Date: 2025-11-02 16:01
+Total Products Analyzed: 10
+Competitors: JUMIA
+
+KEY INSIGHTS:
+Most Affordable: JUMIA
+Most Product Variety: JUMIA
+Most Aggressive Discounts: JUMIA
+
+DETAILED STATISTICS:
+            price_numeric_count  price_numeric_mean  price_numeric_median  price_numeric_min  price_numeric_max  price_numeric_std  discount_percent_mean  discount_percent_max
+competitor                                                                                                                                                                     
+JUMIA                        10            158903.1              125980.0            85555.0           334000.0           86326.85                  10.67                  30.6
